@@ -1,0 +1,129 @@
+{
+  "basics": {
+    "name": "Gayathri Devi V",
+    "sonof": "D/o satyanarayana",
+    "label": "Trainer cum Developer",
+    "picture": "image.png",
+    "email": "gayathriv410@gmail.com",
+    "phone": "7730807897",
+    "address": "deva village, Penugonda,West godavari(district) - 534123",
+    "languages":"English and Telugu",
+    "co": "To work for a reputed organization where I could serve it, with the best of My skills and ability contributes for its growth and do acquire skill, which could Make me proper in the future",
+    "expe":"Working in Andhra Pradesh State Skill Development Corporation for 2.7 years. Trained 700 faculty members and 1lakh+ students for google india code to learn contest and my role is trainer cum team lead, and also Trained B.Tech Students on their Projects in the areas of Web Designing and Programming in HTML & PHP Environment and also trained MIT App Inventor tool to develop Android applications, And now learning Android using Android Studio, and also learning new approach PWA(Progressive Web App)",
+    "highlights": null,
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "",
+        "username": "",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "",
+      "position": "",
+      "website": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        ""
+      ]
+    }
+  ],
+  "additionalWork": [
+    {
+      "company": "",
+      "position": "",
+      "website": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        ""
+      ]
+    }
+  ],
+  "workLabel": "",
+  "additionalWorkLabel": "",
+  "education": [
+    {
+      "type": "Graduation",
+      "des": [
+        "Bachelor of Technology, Pragna Bharath Institute Of Technology,Jawaharlal Nehru Technological University, Hyderabad 2013-17, Secured: 72.30"
+      ]
+    },
+    {
+      "type": "Intermediate",
+      "des": [
+        "Board of Intermediate Education, Vasavi Vignan junior College, Penugonda, West godavarai (d.t) ,  2011-2013 , Secured:86.30"
+      ]
+    },
+    {
+      "type": "S S C",
+      "des": [
+        "Board of Secondary Education, 2011, SMBTRZPPHigh school.Deva,West godavari (district) Secured: 72% of marks"
+      ]
+    }
+
+
+  ],
+  "acheivements": [
+       "Participated in workshop on android technology Conducted by GOOGLE",
+       "I won the district wise drawing competition in Nellore",
+       "Presented a PPT in intra district techno cultural fest Conducted by Prakasam engineering College and Got first prize"
+
+  ],
+  "additionalPublications": [
+    {
+      "name": "",
+      "publisher": "",
+      "releaseDate": "",
+      "website": "",
+      "summary": "",
+      "isbn": ""
+    }
+  ],
+  "publicationsLabel": "",
+  "additionalPublicationsLabel": "",
+  "skills": [
+    {
+      "name": "Operating Systems",
+      "keywords": [
+        "WINDOWS",
+        "LINUX"
+      ]
+    },
+    {
+      "name": "Languages",
+      "keywords": [
+        "Basics in JAVA",
+        "HTML",
+        "JavaScript &PHP",
+        "MySQL"
+      ]
+    },
+    {
+      "name": "Tools",
+      "keywords": [
+        "MS OFFICE",
+        "Android Studio",
+        "MIT App Inventor"
+      ]
+    },
+    {
+      "name": "Web Technologies",
+      "keywords": [
+        "HTML"
+      ]
+    }
+  ]
+}
